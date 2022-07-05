@@ -14,13 +14,7 @@ Project Has A Significant Amount Of Technically Interesting Work. </h4>
 <p>&nbsp;&nbsp;&nbsp; 3 - Score Counter</p>
 <p>&nbsp;&nbsp;&nbsp; 4 - Control Buttons ( Play, Pause and Exit )</p>
 
-<hr>
-<h2>Extra Work</h2>
-<h5>  •   Designed Logo</h5>
-<h5>  •   Fire Animation From His Bag</h5>
-<h5>  •   Here You Find The Windows Version <a href="https://github.com/Mohamed-Abdelsatar/Floaty-Astronaut/tree/master/2D%20-%20Game/Builds/Windows"> Floaty Astronaut Windows</a> </h5>
-<h5>  •   Here You Find APK For Android Version <a href="https://github.com/Mohamed-Abdelsatar/Floaty-Astronaut/tree/master/2D%20-%20Game/Builds/Android"> Floaty Astronaut Android</a> </h5>
-<h5>  •   Here You Find Unity Build Version <a href="https://github.com/Mohamed-Abdelsatar/Floaty-Astronaut/tree/master/2D%20-%20Game/Floaty%20Astronaut%20(Unity%20Project)"> Floaty Astronaut Unity</a> </h5>
+
 <hr>
 <h2> Some Snippets </h2>
 
@@ -33,10 +27,19 @@ Project Has A Significant Amount Of Technically Interesting Work. </h4>
 ![2d3](https://user-images.githubusercontent.com/60596766/169454231-10643e55-f338-45cb-9e6b-fd75c05eed2e.png)
 
 <hr>
- <h2>  • Explaining Whole Project In a Video ( in Arabic ) Down below </h2><br>
- 
 
-https://user-images.githubusercontent.com/60596766/169454411-3e943e6f-49d1-485f-a854-cf493f559e6f.mp4
+# Coding Contribution:
+
+For more features or face any issue free will to post on the issue section. Free will to fork this project and add more thing to this project. 
+
+Happy Coding…👋
+
+# Contact Information:
+
+**Author:** Abdul Rafay
+
+**Email:** 99marafay@gmail.com
 
 
- 
+
+
